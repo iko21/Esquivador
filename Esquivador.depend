@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1391196722 source:/home/turupawn/Projects/Codeblocks/Esquivador/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	"SDL/SDL_ttf.h"
+	"Personaje.h"
+	"Enemigo.h"
+	"Fantasmita.h"
+	<string>
+	<vector>
+
+1391193531 /home/turupawn/Projects/Codeblocks/Esquivador/Personaje.h
+	"SDL/SDL_image.h"
+
+1391193419 source:/home/turupawn/Projects/Codeblocks/Esquivador/Personaje.cpp
+	"Personaje.h"
+
+1391194710 source:/home/turupawn/Projects/Codeblocks/Esquivador/Enemigo.cpp
+	"Enemigo.h"
+
+1391196655 /home/turupawn/Projects/Codeblocks/Esquivador/Enemigo.h
+	"SDL/SDL_image.h"
+
+1391197505 /home/turupawn/Projects/Codeblocks/Esquivador/Fantasmita.h
+	"Enemigo.h"
+
+1391197526 source:/home/turupawn/Projects/Codeblocks/Esquivador/Fantasmita.cpp
+	"Fantasmita.h"
+
